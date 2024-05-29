@@ -1,0 +1,5 @@
+Jane Smith; 25; Single
+Alice Brown; 28; Married
+John Doe; 30; Married
+Bob Johnson; 35; Single
+John Doe; 40; Divorced
